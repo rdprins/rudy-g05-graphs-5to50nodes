@@ -1,6 +1,6 @@
 # rudy-g05-graphs-5to50nodes
 
-This repository contains unweighted graph instances generated with the [Rudy graph generator](https://biqmac.aau.at/biqmaclib.html), using an edge probability of 0.5. The dataset covers graphs with N = 5, 10, 20, 30, 40, and 50 nodes.
+This repository contains unweighted graph instances generated with the Rudy graph generator with an edge probability of 0.5. The dataset covers graphs with N = 5, 10, 20, 30, 40, and 50 nodes, extending the g05 graph set of the [BiqMac library](https://biqmac.aau.at/biqmaclib.html).
 
 This dataset was used in the preprint:  
 **"How to Incorporate External Fields in Analog Ising Machines"**  
